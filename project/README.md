@@ -1,5 +1,3 @@
-**LINK TO VIDEO: https://youtu.be/aaKLSOfkNVY**
-
 Before proceeding with the Project, the first thing that is necessary if you have not done so already is to install the most recent version of Python from here [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 Then, after this, if you have not done so already, head to [https://www.pygame.org/wiki/GettingStarted](https://www.pygame.org/wiki/GettingStarted) to install the most recent version of PyGame for Python as this module is necessary for the running of this program.
